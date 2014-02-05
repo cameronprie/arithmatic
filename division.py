@@ -1,4 +1,4 @@
-def add(a,b):
+def div(a,b):
     answer =  a+b
     return (answer)
 
